@@ -6,4 +6,3 @@ END
 
 EXEC select_user2 @name='Abhijith'
 
-select * from userAge where name='Abhijith'
